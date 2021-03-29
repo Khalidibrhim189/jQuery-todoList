@@ -1,0 +1,8 @@
+ul > li{
+    list-style: none;
+}
+
+.fa-trash{
+    margin-left: 20px;
+    color: red;
+}
